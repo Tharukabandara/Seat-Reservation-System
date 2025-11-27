@@ -79,19 +79,6 @@ The Seat Reservation System is a comprehensive web application designed for orga
 
 ---
 
-## 📸 Demo
-
-### Dashboard
-![Dashboard Screenshot](https://via.placeholder.com/800x400/667eea/ffffff?text=Dashboard+Screenshot)
-
-### Seat Booking Interface
-![Booking Screenshot](https://via.placeholder.com/800x400/3b82f6/ffffff?text=Booking+Interface+Screenshot)
-
-### Admin Panel
-![Admin Panel Screenshot](https://via.placeholder.com/800x400/1e40af/ffffff?text=Admin+Panel+Screenshot)
-
----
-
 ## 📋 Prerequisites
 
 Before you begin, ensure you have the following installed:
@@ -383,9 +370,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 👨‍💻 Authors
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: https://github.com/Tharukabandara
+- LinkedIn: https://www.linkedin.com/in/tharuka-bandara-57b52b297
+- Email: tharukabandara821@gmail.com
 
 ---
 
@@ -399,19 +386,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-## 📞 Support
-
-If you have any questions or need help with setup, please:
-- 📧 Email: support@yourcompany.com
-- 💬 Open an issue on GitHub
-- 📖 Check the [Wiki](https://github.com/yourusername/seat-reservation-system/wiki)
-
----
-
 <div align="center">
 
 **⭐ If you found this project helpful, please give it a star! ⭐**
-
-Made with ❤️ by [Your Name](https://github.com/yourusername)
 
 </div>
